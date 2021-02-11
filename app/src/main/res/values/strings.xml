@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ugaday4islo</string>
+    <string name="behind">Ne dolet!</string>
+    <string name="ahead">Perelet!</string>
+    <string name="hit">V to4ku!</string>
+    <string name="input_value">Vvesti zna4enie</string>
+    <string name="play_more">Sigrat ewe raz</string>
+    <string name="try_to_guess">Poprobuyte ugadat 4islo (1 &#8211; 100)</string>
+    <string name="error">Neverniy vvod!</string>
+</resources>
